@@ -22,7 +22,7 @@ cooking_type_choices = {
     'Others' : 'Others',
 }
 
-Beverage_choices = {
+beverage_choices = {
     'Cold_Drinks' : 'Cold_Drinks',
     'Hot_Drinks' : 'Hot_Drinks',
     'Water' : 'Water',
@@ -42,3 +42,42 @@ Beverage_choices = {
     'Functional_Drinks' : 'Functional_Drinks',
     'Others' : 'Others',
 }
+
+district_choices = {
+'Islands' : 'Islands',
+'Kwai Tsing' : 'Kwai Tsing',
+'North' : 'North',
+'Sai Kung' : 'Sai Kung',
+'Sha Tin' : 'Sha Tin',
+'Tai Po' : 'Tai Po',
+'Tsuen Wan' : 'Tsuen Wan',
+'Tuen Mun' : 'Tuen Mun',
+'Yuen Long' : 'Yuen Long',
+'Kowloon City' : 'Kowloon City',
+'Kwun Tong' : 'Kwun Tong',
+'Sham Shui Po' : 'Sham Shui Po',
+'Wong Tai Sin' : 'Wong Tai Sin',
+'Yau Tsim Mong' : 'Yau Tsim Mong',
+'Central & Western' : 'Central & Western',
+'Eastern' : 'Eastern',
+'Southern' : 'Southern',
+'Wan Chai' : 'Wan Chai',
+}
+
+cuisine_choices = {
+'Japanese' : 'Japanese',
+'Chinese' : 'Chinese',
+'Thai' : 'Thai',
+'Italian' : 'Italian',
+'Mexican' : 'Mexican',
+'Korean' : 'Korean',
+'Vietnamese' : 'Vietnamese' ,
+'French' : 'French',
+'American': 'American',
+'Taiwanese' : 'Taiwanese',
+'Canadian' : 'Canadian',
+'Singapore' : 'Singapore',
+'Malaysian' : 'Malaysian',
+'Filipino' : 'Filipino',
+'Other' : 'Other',
+} 

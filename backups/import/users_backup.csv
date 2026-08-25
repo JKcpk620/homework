@@ -1,0 +1,2 @@
+id,password,last_login,is_superuser,username,first_name,last_name,email,is_staff,is_active,date_joined
+1,pbkdf2_sha256$1000000$DMUPKJ8qHKDAr5u5vdVw4y$06+hnupQmOF1qYM0Ojc4wutWFBaALoqX9nJSiZa7zDg=,2026-08-24 09:40:16.704701+08,t,admin,"","",real9siu@gmail.com,t,t,2026-08-02 03:45:11.050139+08

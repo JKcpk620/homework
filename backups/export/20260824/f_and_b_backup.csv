@@ -1,0 +1,32 @@
+id,title,discription,F_or_b,cooking_type,beverage_type,veggie,halal,spicy,allegy_ingredient,price,photo_main,is_published,list_date
+2,Coke,Coca Cola,Beverages,"",Soft_Drinks,f,f,f,"",12,photos/2026/08/23/coke.jpeg,t,2026-08-23 16:53:40.416148+08
+4,Macaron,many flavor for choose,Foods,Baking,"",f,f,f,"egg, nuts",50,photos/2026/08/23/fhmcr.jpeg,t,2026-08-23 17:02:43.385452+08
+5,Gyudon,"Wagyu beef
+Japanese rice",Foods,Steaming,"",f,f,f,"",0,photos/2026/08/23/jpbr.jpeg,t,2026-08-23 17:07:08.022714+08
+3,Lobster Bisque,Boston Lobster,Foods,Others,"",f,f,f,"milk, lobster, gluten",88,photos/2026/08/23/fhls.jpeg,t,2026-08-23 16:58:07.750603+08
+6,Japanese Eel Rice Bowl,"White eel
+Japanese rice",Foods,Grilling,"",f,f,f,"",128,photos/2026/08/23/jper.jpeg,t,2026-08-23 17:09:04.598648+08
+7,Sushi Platter,"Japanese Seafood
+Japanese sushi rice",Foods,Others,"",f,f,f,shrimp,168,photos/2026/08/23/jpss.jpeg,t,2026-08-23 17:11:24.164037+08
+8,Sashimi,Japanese Seafood,Foods,Cold_Dish,"",f,f,f,"",338,photos/2026/08/23/jpssm.jpeg,t,2026-08-23 17:12:04.744639+08
+9,Warabi Mochi,Japanese chef handmade,Foods,Dessert,"",f,f,f,"",38,photos/2026/08/23/jpwm.jpeg,t,2026-08-23 17:13:09.431254+08
+1,Croissant,French chef handmade,Foods,Baking,"",f,f,f,"egg, milk, gluten",20,photos/2026/08/23/fhcs.jpeg,t,2026-08-23 16:52:49.499975+08
+10,Chicken Skewers,Traditional Curry Source,Foods,Grilling,"",f,f,f,nuts,138,photos/2026/08/23/macs.jpeg,t,2026-08-23 17:14:35.114727+08
+11,Mojito,"Bacardi Rum
+Thai Lime",Beverages,"",Cocktails,f,f,f,"",98,photos/2026/08/23/mojito.jpeg,t,2026-08-23 17:15:52.042254+08
+12,Pad Thai,Thai chef recipe,Foods,Stir_Frying,"",f,f,t,"egg, nuts",128,photos/2026/08/23/padthai.jpeg,t,2026-08-23 17:18:18.79563+08
+13,Pad Kra Pao,Thai chef recipe,Foods,Stir_Frying,"",f,f,f,"",90,photos/2026/08/23/thaibcr.jpeg,t,2026-08-23 17:21:34.137903+08
+14,Thai Green Curry Chicken,Thai chef recipe,Foods,Boiling,"",f,f,t,"",108,photos/2026/08/23/thaigc.jpeg,t,2026-08-23 22:02:50.023364+08
+15,Lettuce Wraps,Thai chef recipe,Foods,Pan_Frying,"",f,f,t,"",78,photos/2026/08/23/thaivb.jpeg,t,2026-08-23 22:07:40.485673+08
+16,Bubble Milk Tea,"",Beverages,"",Cold_Drinks,f,f,f,"",30,photos/2026/08/23/twbt.jpeg,t,2026-08-23 22:11:51.985871+08
+17,Braised Pork Rice,"",Foods,Braising,"",f,f,f,"",55,photos/2026/08/23/twpr.jpeg,t,2026-08-23 22:14:21.381109+08
+18,Scallion Pancake,"",Foods,Pan_Frying,"",t,f,f,"",50,photos/2026/08/23/twsc.jpeg,t,2026-08-23 22:16:11.826606+08
+20,Beef Burger,Angus beef,Foods,Others,"",f,f,f,"milk, gluten",88,photos/2026/08/23/usaburger.jpeg,t,2026-08-23 22:27:45.930246+08
+19,Tom Yum Kung,Thai chef recipe,Foods,Boiling,"",f,f,t,shrimp,95,photos/2026/08/23/tyk.jpeg,t,2026-08-23 22:23:56.671188+08
+21,Americano,"",Beverages,"",Coffee,f,f,f,"",33,photos/2026/08/23/usacafe.jpeg,t,2026-08-23 22:30:36.671395+08
+22,Fish & Chip,"",Foods,Frying,"",f,f,f,"",138,photos/2026/08/23/usafnc.jpeg,t,2026-08-23 22:32:29.067043+08
+23,Pork Ribs,Secret recipe,Foods,Roasting,"",f,f,f,"",168,photos/2026/08/23/usawbr.jpeg,t,2026-08-23 22:35:29.308423+08
+24,Vietnamese Raw Beef Pho,Vietnamese traditional,Foods,Soup_Noodle,"",f,f,f,"",78,photos/2026/08/23/vietbrn.jpeg,t,2026-08-23 22:38:19.572347+08
+25,Vietnamese Spring Rolls,"",Foods,Frying,"",f,f,f,"",68,photos/2026/08/23/vietfsr.jpeg,t,2026-08-23 22:44:14.088234+08
+26,Vietnamese Steamed Rice Rolls,"",Foods,Steaming,"",f,f,f,"",78,photos/2026/08/23/vietvrr.jpeg,t,2026-08-23 22:45:59.968943+08
+27,Blue Lagoon,"",Beverages,"",Cocktails,f,f,f,"",108,photos/2026/08/23/bluelagoon.jpeg,t,2026-08-23 23:15:29.797037+08

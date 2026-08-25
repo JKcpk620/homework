@@ -2,7 +2,7 @@ from django.db import models
 from django_countries.fields import CountryField
 
 # Create your models here.
-class Products(models.Model):
+class Product(models.Model):
     title = models.CharField(max_length=200)
     discription = models.TextField(blank=True)
     origin = CountryField(blank_label="(Select Country)")

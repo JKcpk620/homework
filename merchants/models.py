@@ -1,13 +1,14 @@
 from django.db import models
+from f_and_b.choices import district_choices, cuisine_choices
 
 # Create your models here.
-class Merchants(models.Model):
+class Merchant(models.Model):
     title = models.CharField(max_length=200)
-    district = models.CharField(max_length=50)
+    district = models.CharField(max_length=50, choices = district_choices.items(), default='')
     address = models.CharField(max_length=200)
     type = models.CharField(max_length=50)
-    cuisine_choices = models.CharField(max_length=50)
-    acommodate = models.IntegerField(blank=True)
+    cuisine_choices = models.CharField(max_length=50, choices = cuisine_choices.items(), default='')
+    acommodate = models.IntegerField(blank=True, default=0)
     has_wifi = models.BooleanField(default=True)
     has_delivery = models.BooleanField(default=True)
     average_spend = models.IntegerField(blank=True)

@@ -41,11 +41,14 @@ DJANGO_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django_countries',
+    'django_apscheduler',
 ]
 
 LOCAL_APPS = [
     "pages.apps.PagesConfig",
     "merchants.apps.MerchantsConfig",
+    "f_and_b.apps.FAndBConfig",
+    "products.apps.ProductsConfig",
 ]
 
 THIRD_PARTY_APPS = [
@@ -89,8 +92,12 @@ WSGI_APPLICATION = 'config.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'homework',
+        'USER': 'postgres',
+        'PASSWORD': '952562',
+        'HOST': 'localhost',
+        'PORT': '5432',
     }
 }
 
@@ -135,3 +142,5 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+APSCHEDULER_DATETIME_FORMAT = "N j, Y, r"
